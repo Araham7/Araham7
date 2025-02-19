@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araham7&label=Profile%20views&color=0e75b6&style=flat" alt="araham7" /> </p>
 
-- 🌱 I’m currently learning **Electronics and Communication Engineering(7th sem)**
+- 🌱 I’m currently learning **Electronics and Communication Engineering(8th sem)**
 
 - 📫 How to reach me **arahamabeddin7@gmail.com**
 
